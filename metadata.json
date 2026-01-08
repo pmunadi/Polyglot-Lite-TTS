@@ -1,0 +1,7 @@
+{
+  "name": "PolyglotTTS - Indo-English Voice AI",
+  "description": "A high-quality Text-to-Speech application designed for mixed Indonesian and English sentences with 12 distinct AI voices and real-time adjustment capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
